@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ecochic</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">back</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="ecoprint_product">Find your Ecoprint Product!</string>
+    <string name="delete_bookmark">Delete</string>
+    <string name="topbar_cart">Shopping Cart</string>
+</resources>
